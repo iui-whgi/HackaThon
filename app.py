@@ -4,7 +4,7 @@ import numpy as np
 # b=np.arange(1,10,0.1)
 # print(a)
 # print(b)
-
+#!wfe
 # a=np.zeros((3,4))
 # print(a)
 # a=np.ones((3,4))
