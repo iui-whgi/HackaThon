@@ -5,6 +5,7 @@ import numpy as np
 # print(a)
 # print(b)
 #!wfe
+##!ㅇㄻㅇㄴㄹㅇㄹㄴㅇ
 # a=np.zeros((3,4))
 # print(a)
 # a=np.ones((3,4))
